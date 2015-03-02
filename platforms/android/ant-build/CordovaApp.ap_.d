@@ -38,14 +38,12 @@
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/index.html \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/app.js \
-/home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/npm-debug.log \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/localstorage \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/json \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/websql \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/memory \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/localstorage/EmployeeService.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/json/EmployeeService.js \
-/home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/json/npm-debug.log \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/websql/EmployeeService.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/memory/EmployeeService.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/plugins/org.apache.cordova.dialogs \
