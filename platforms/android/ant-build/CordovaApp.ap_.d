@@ -37,6 +37,8 @@
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/cordova_plugins.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/index.html \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services \
+/home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/EmployeeListView.js \
+/home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/HomeView.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/app.js \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/localstorage \
 /home/rafael/kerrlabs/workshop/platforms/android/assets/www/js/services/json \
